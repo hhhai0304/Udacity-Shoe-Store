@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Shoe Store</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Please fill username</string>
+    <string name="invalid_password">Please fill password</string>
+    <!-- Strings related to welcome -->
+    <string name="welcome_content_description">Welcome image</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_subtitle">Join with us and enjoy Comfortable Life, %s</string>
+    <string name="get_started">Get started</string>
+    <!-- Strings related to instruction -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="shopping_now">Access now</string>
+    <string name="instruction_1">Text 1</string>
+    <string name="instruction_2">Text 2</string>
+    <string name="instruction_3">Text 3</string>
+    <string name="instruction_4">Text 4</string>
+    <string name="instruction_5">Text 5</string>
+    <string name="instruction_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus vel ante ut rutrum. Integer.</string>
+    <!-- Strings related to listing -->
+    <string name="shoe_list">Shoe list</string>
+    <string name="add_shoe">Add shoe</string>
+    <string name="logout">Logout</string>
+    <!-- Strings related to detail -->
+    <string name="name">Name</string>
+    <string name="size">Size</string>
+    <string name="company">Company</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

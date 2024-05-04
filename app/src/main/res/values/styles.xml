@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DefaultButtonStyle">
+        <item name="android:backgroundTint">#2D56B3</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="DefaultTextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:selectAllOnFocus">true</item>
+    </style>
+</resources>
